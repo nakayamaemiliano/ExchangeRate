@@ -9,7 +9,7 @@ import java.net.http.HttpResponse;
 import java.util.Scanner;
 
 public class ConversorMonedas {
-    private static final String API_KEY = "TU_API_KEY";
+    private static final String API_KEY = "c22b3607c8e58a706d09875d";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
 
     public static void main(String[] args) {
